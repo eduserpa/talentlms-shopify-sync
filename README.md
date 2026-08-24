@@ -51,7 +51,3 @@ periodicamente:
 ```cron
 0 3 * * * php /caminho/para/talentlms-shopify-sync.php
 ```
-
-## Licença
-
-MIT
